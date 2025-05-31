@@ -1,0 +1,3 @@
+https://github.com/C0rn3j/LN822H_dump_tool
+
+jazzier version of LN882H_Flash_Dumper.py in LN882H_CMD_TOOL_Variationx.zip files
